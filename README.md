@@ -1,4 +1,4 @@
-The portfolio contains five short, fun projects that I worked on in my spare time:
+The portfolio contains a few short, fun projects that I worked on in my spare time:
 
 1. A trading bot that offers trading suggestions using AI.
 2. A barcode scanner that uses the built-in webcam of a device.
